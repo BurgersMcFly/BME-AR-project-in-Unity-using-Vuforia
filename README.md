@@ -1,7 +1,7 @@
 # BME AR project in Unity with Vuforia
 My first AR project in Unity with Vuforia for my class on Medical robotics, cyber physical engineering and virtual reality.
 
-![](https://i.imgur.com/TUJvYh0.png)
+![](https://i.imgur.com/GA4e0uz.png)
 
 ## Dependencies
 
